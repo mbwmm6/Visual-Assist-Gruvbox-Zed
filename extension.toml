@@ -4,4 +4,4 @@ schema_version = 1
 version = "0.0.1"
 authors = ["Maksim Bogoiavlenskii <info@maksimbogoiavlenskii.ru>"]
 description = "Visual Assist Gruvbox"
-repository = "https://github.com/catppuccin/zed"
+repository = "https://github.com/mbwmm6/Visual-Assist-Gruvbox-Zed"
