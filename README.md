@@ -1,4 +1,3 @@
-![[snippet.png]]
 ## Usage
 
 1. Open Zed.
