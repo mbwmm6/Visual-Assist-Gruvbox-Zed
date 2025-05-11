@@ -1,0 +1,7 @@
+id = "visual_assist_gruvbox"
+name = "Visual Assist Gruvbox"
+schema_version = 1
+version = "0.0.1"
+authors = ["Maksim Bogoiavlenskii <info@maksimbogoiavlenskii.ru>"]
+description = "Visual Assist Gruvbox"
+repository = "https://github.com/catppuccin/zed"

@@ -1,0 +1,5 @@
+**/.DS_Store
+themes/*
+!themes/*mauve*.json
+.zed
+.git
